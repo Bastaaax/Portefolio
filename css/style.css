@@ -528,9 +528,9 @@ a, a:hover {
 
 .unslate_co--site-nav.scrolled.awake {
   margin-top: 0px;
-  -webkit-transition: .3s all ease-out;
-  -o-transition: .3s all ease-out;
-  transition: .3s all ease-out;
+  -webkit-transition: .1s all ease-out;
+  -o-transition: .1s all ease-out;
+  transition: .1s all ease-out;
 }
 
 .unslate_co--site-nav.scrolled.sleep {
@@ -940,9 +940,9 @@ a, a:hover {
 }
 
 .portfolio-item img {
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
+  -webkit-transition: .1s all ease;
+  -o-transition: .1s all ease;
+  transition: .1s all ease;
   position: relative;
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
@@ -966,9 +966,9 @@ a, a:hover {
   z-index: 8;
   opacity: 0;
   visibility: hidden;
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
+  -webkit-transition: .1s all ease;
+  -o-transition: .1s all ease;
+  transition: .1s all ease;
 }
 
 .portfolio-item .overlay, .portfolio-item .overlay:before, .blog-item .overlay, .blog-item .overlay:before {
@@ -1063,9 +1063,9 @@ a, a:hover {
     min-width: 150px;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: .3s all ease;
-    -o-transition: .3s all ease;
-    transition: .3s all ease;
+    -webkit-transition: .1s all ease;
+    -o-transition: .1s all ease;
+    transition: .1s all ease;
     right: 0;
     padding: 20px;
     top: 10px;
@@ -1656,9 +1656,9 @@ figure.dotted-bg:before {
   transform: translateY(-50%);
   opacity: 0;
   visibility: hidden;
-  -webkit-transition: .3s all ease;
-  -o-transition: .3s all ease;
-  transition: .3s all ease;
+  -webkit-transition: .1s all ease;
+  -o-transition: .1s all ease;
+  transition: .1s all ease;
 }
 
 .unslate_co--close-portfolio .wrap-icon-close {
